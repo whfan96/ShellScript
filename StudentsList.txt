@@ -1,0 +1,5 @@
+3A,1,John,1
+3A,2,Amy,0
+3A,3,Bob,1
+3A,4,Jack,1
+4B,1,Jeff,1

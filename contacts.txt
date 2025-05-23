@@ -1,0 +1,3 @@
+Name: Alice, Phone: 0912345678, Email: alice@example.com
+Name: Bob, Phone: N/A, Email: bob@example.com
+Name: Mia, Phone: 0922345678, Email: N/A
